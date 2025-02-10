@@ -4,6 +4,8 @@ title: "Angappan G - Data Analyst"
 description: "Passionate about uncovering insights from data and building impactful visualizations."
 ---
 
+![Profile Photo](https://github.com/yourusername/your-repo/raw/main/profile-photo.jpg)
+
 # Angappan G
 **Data Analyst | SQL | Python | Snowflake | Tableau | Power BI**  
 [LinkedIn](http://www.linkedin.com/in/angappan-g-94227415a) | angappang33@gmail.com | [GitHub](https://github.com/yourusername)
@@ -16,8 +18,8 @@ I am a passionate data analyst who loves turning raw data into meaningful insigh
 - Extracted and cleaned credit card complaint data using SQL and Python.
 - Built interactive Tableau dashboards for KPI visualization, improving resolution efficiency by 15%.
 - Automated reporting, reducing manual effort by 40%.
-- **[View Project](https://github.com/Angappan-G/Credit-Card-Complaints-Analysis.git)**
-- ![Project Screenshot](https://github.com/Angappan-G/Angappan-Portfolio/blob/main/Screen%20Shot.png)
+- **[View Project](https://github.com/yourusername/credit-card-complaints-analysis)**
+- ![Project Screenshot](https://github.com/yourusername/credit-card-complaints-analysis/raw/main/Screen_Shot.png)
 
 ### 📈 **Sales Data Analysis** *(SQL, Python, Jupyter)*
 - Collected real-time sales data from APIs and structured it for analysis.
@@ -27,7 +29,7 @@ I am a passionate data analyst who loves turning raw data into meaningful insigh
 - ![Project Screenshot](https://github.com/yourusername/sales-data-analysis/raw/main/screenshot.png)
 
 ## Skills & Tools
-- **Databases**: SQL, Snowflake, Microsoft SQL Server
+- **Databases**: SQL, Microsoft SQL Server, Snowflake, PostgreSQL
 - **Programming**: Python (Pandas, NumPy), Jupyter Notebook
 - **Data Visualization**: Tableau, Power BI
 - **Cloud Technologies**: AWS, Azure DevOps
