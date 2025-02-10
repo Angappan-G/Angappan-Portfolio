@@ -17,7 +17,7 @@ I am a passionate data analyst who loves turning raw data into meaningful insigh
 - Built interactive Tableau dashboards for KPI visualization, improving resolution efficiency by 15%.
 - Automated reporting, reducing manual effort by 40%.
 - **[View Project](https://github.com/Angappan-G/Credit-Card-Complaints-Analysis.git)**
-- ![Project Screenshot](https://github.com/yourusername/credit-card-complaints-analysis/raw/main/screenshot.png)
+- ![Project Screenshot](https://github.com/Angappan-G/Angappan-Portfolio/blob/main/Screen%20Shot.png)
 
 ### 📈 **Sales Data Analysis** *(SQL, Python, Jupyter)*
 - Collected real-time sales data from APIs and structured it for analysis.
