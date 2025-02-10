@@ -4,10 +4,10 @@ title: "Angappan G - Data Analyst"
 description: "Passionate about uncovering insights from data and building impactful visualizations."
 ---
 
-![Profile Photo](https://github.com/yourusername/your-repo/raw/main/profile-photo.jpg)
+![Profile Photo](https://github.com/Angappan-G/Angappan-Portfolio/raw/main/profilepic.jpg)
 
 # Angappan G
-**Data Analyst | SQL | Python | Snowflake | Tableau | Power BI**  
+**Data Analyst | SQL | Python | Tableau | Power BI | Snowflake**  
 [LinkedIn](http://www.linkedin.com/in/angappan-g-94227415a) | angappang33@gmail.com | [GitHub](https://github.com/yourusername)
 
 ## About Me
@@ -18,8 +18,8 @@ I am a passionate data analyst who loves turning raw data into meaningful insigh
 - Extracted and cleaned credit card complaint data using SQL and Python.
 - Built interactive Tableau dashboards for KPI visualization, improving resolution efficiency by 15%.
 - Automated reporting, reducing manual effort by 40%.
-- **[View Project](https://github.com/yourusername/credit-card-complaints-analysis)**
-- ![Project Screenshot](https://github.com/yourusername/credit-card-complaints-analysis/raw/main/Screen_Shot.png)
+- **[View Project](https://github.com/Angappan-G/Credit-Card-Complaints-Analysis)**
+- ![Project Screenshot](https://github.com/Angappan-G/Credit-Card-Complaints-Analysis/raw/main/Screen_Shot.png)
 
 ### 📈 **Sales Data Analysis** *(SQL, Python, Jupyter)*
 - Collected real-time sales data from APIs and structured it for analysis.
